@@ -1,4 +1,4 @@
-def plus(a,b):
+def plus(a,b): #функция сложения
     return a+b
 if __name__ == '__main__':
     print(plus(2,3))
